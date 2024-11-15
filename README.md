@@ -10,6 +10,6 @@ Real-time API integration for fetching restaurant and menu data.
 User-friendly navigation and intuitive design.
 Technologies Used:
 
-React
-API Integration
-Responsive Design
+#React
+#API Integration
+#Responsive Design
