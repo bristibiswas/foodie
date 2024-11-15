@@ -2,7 +2,7 @@
   height: 34vw;
   margin: 30px auto;
   border-radius: 20px;
-  background: url("./food_banner.jpg") no-repeat;
+  background: url("../../.././public/food_banner.jpg") no-repeat;
   background-size: cover;
   position: relative;
   overflow: hidden;
